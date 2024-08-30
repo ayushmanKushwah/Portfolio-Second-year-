@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    box-sizing: border-box;
+    background-color: #1e2025;
+    color: white;
+}
+
+
+div {
+    margin-bottom: 15px;
+}

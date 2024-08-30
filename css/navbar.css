@@ -1,0 +1,14 @@
+#navBar {
+    height: 8vh;
+    width: 100vw;
+    background-color: #29343d;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.nav-links-tags{
+    text-decoration: none;
+    background-color: #29343d;
+}

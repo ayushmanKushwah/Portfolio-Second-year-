@@ -1,0 +1,9 @@
+ #social_media {
+     margin-top: -20px;
+     position: relative;
+     left: 300px;
+ }
+ .social_media_icons{
+    display: inline;
+    margin: 25px;
+ }

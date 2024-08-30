@@ -1,0 +1,59 @@
+#description {
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.description {
+    width: 50%;
+    height: 100%;
+}
+
+
+
+#title {
+    position: relative;
+    left: 50px;
+    font-size: 80px;
+}
+
+
+#text {
+    width: 80%;
+    top: 15px;
+    position: relative;
+    left: 200px;
+}
+
+
+
+#image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 10px solid red; */
+}
+
+
+
+#profilePicture {
+    border-radius: 50%;
+}
+
+
+#details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+}
+
+
+#description-text {
+    font-size: 28px;
+}

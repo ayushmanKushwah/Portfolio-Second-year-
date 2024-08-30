@@ -1,0 +1,32 @@
+#contactMe {
+    background-color: #29343d;
+    height: 100px;
+    padding-bottom: 20px 0 20px 0;
+    width: 100vw;
+    margin-bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
+
+
+#contactMe-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background-color: transparent;
+    font-size: 26px;
+    letter-spacing: 10px;
+    margin: 10px;
+}
+
+
+#contacts {
+    margin-top: 20px;
+    display: flex;
+    width: 70vw;
+    justify-content: space-evenly;
+    background-color: transparent;
+}

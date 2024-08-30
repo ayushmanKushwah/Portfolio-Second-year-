@@ -1,0 +1,21 @@
+#languages {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50vw;
+    /* mix-blend-mode: multiply; */
+    margin: 15px;
+}
+
+
+#techStack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+
+
+#techStack_text {
+    text-size-adjust: 20px;
+}

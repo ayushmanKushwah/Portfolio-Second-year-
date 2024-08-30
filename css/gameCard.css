@@ -1,0 +1,156 @@
+.projectCard {
+    height: 70vh;
+    width: 90vw;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+#gameSiteImages {
+    height: 100%;
+    width: 45%;
+    background-image: url(img/gamingSite/bg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#gaming-gap {
+    height: 100%;
+    width: 10%;
+}
+
+#gameSiteDesc {
+    height: 100%;
+    margin: 0;
+    width: 45%;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.gameTitle {
+    height: 25%;
+    width: 100%;
+    font-size: 25px;
+    border-radius: 25px;
+    letter-spacing: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 230%;
+    color: wheat;
+    padding: 0;
+}
+
+.gameDesc {
+    padding: 0;
+    height: 45%;
+    letter-spacing: 2px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+.gamebuttons {
+    margin: 0;
+    padding: 0;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 25px;
+    align-items: center;
+}
+
+#gitButton {
+    background-color: #29343d;
+    border: none;
+}
+
+#websiteButton {
+    background-color: #29343d;
+    border: none;
+}
+
+.buttonAnchor {
+    text-decoration: none;
+}
+
+
+#AnimeStreamingSite {
+    margin: 50px 0px 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#AnimeSiteDesc {
+    margin-right: 50px;
+    padding: 0;
+    height: 100%;
+    width: 50%;
+}
+
+#AnimeSiteDesc>div {
+    margin: 0;
+    padding: 0;
+}
+
+
+#AnimeSiteDesc-title {
+    height: 30%;
+    width: 100%;
+    font-size: 30px;
+    color: wheat;
+    letter-spacing: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#AnimeSiteDesc-text {
+    height: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+
+#AnimeSiteDesc-buttons {
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#AnimeSitePicture {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 50%;
+    background-image: url(img/AnimeSite/bg.png);
+    background-size: contain;
+    border-radius: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
