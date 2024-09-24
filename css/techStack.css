@@ -19,3 +19,12 @@
 #techStack_text {
     text-size-adjust: 20px;
 }
+
+
+#languages > i{
+    transition: all 0.5s;
+}
+
+#languages > i:hover{
+    scale: 2;
+}
